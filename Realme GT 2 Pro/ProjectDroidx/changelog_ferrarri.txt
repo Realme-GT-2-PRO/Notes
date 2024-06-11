@@ -1,0 +1,45 @@
+Device : Realme GT 2 Pro 5G (RMX3301)
+Codename : Ferrarri
+Build Type : STABLE (Gapps)
+Maintainer : Omkar Parte ( @rakmoparte )
+
+=======================================
+Changelog For Project Droidx-UI v2.1 STABLE
+              12-06-2024
+=======================================
+
+### Changelog Ferrarri RMX3301 ( Realme GT 2 Pro )
+
+- Includes kernel 5.10.205 + KernelSU
+- No Oplus Camera
+- Play Integrity Passes ( Builds Are Now Signed Locally )
+- Updated Blobs to RMX3301_14.0.0.610(EX01)
+- New Vibration levels
+- New Auto Brightness Audjustments
+- limit max refresh rate on lockscreen and AOD
+- Updated power profile
+- Added ViPER4Android Redesign
+- Added BCR for Seamless Call Recording
+- Picked Custom powerhint
+- Updated few Prebuild in common.mk
+- Picked Few Audio Config From Stock
+  (Hope this fix speaker and mic issue)
+- Imported many configs from stock build.prop
+- Droped Lineage Livedisplay
+- Moved From Legacy to Virtual Camera Implementation
+- Pickup Sensor Now Working
+  (Using Different Als thanks to Vimal )
+- Future Updates will Now support OTA
+
+###  Flashing Step - Via sideload as usual
+
+## Credits
+
+❤️❤️ Big Big Big Thanks To Everyone, couldn't have build without your help and guidance ❤️❤️
+
+Thank You All for Sharing Your Dt and Tweaks With Me ❤️❤️
+
+[pjgowtham](https://t.me/pjgowtham) Thank you so much for your work on device tree and kernel
+[Machad3x](https://t.me/Machad3x) Thank you so much for your work on device tree and kernel
+[Arman_ATI](https://t.me/Arman_ATI) Thank you so much for your work on device tree
+[DrM0_Elsa](https://t.me/DrM0_Elsa) Thank You For Testing The Build
