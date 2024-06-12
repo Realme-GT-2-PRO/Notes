@@ -1,0 +1,19 @@
+{
+        "response": [
+                {
+                        "maintainer": "RAM-UNLOK",
+                        "oem": "Realme",
+                        "device": "ferrarri",
+                        "version": "2.1",
+                        "filename": "droidx-2.1-20240618-1441-OFFICIAL-ferrarri-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/droidx-releases/files/ferrarri/droidx-2.1-20240618-1441-OFFICIAL-ferrarri-Gapps.zip/download",
+                        "timestamp": 1718721366,
+                        "md5": "85eca80395f1a72dfa0a35d230c36689",
+                        "sha256": "fa0cf93e951dfe8d807c9980c137b0f9a64e91247f672bb332d2b7797f31aef3",
+                        "size": 3124410164,
+                        "buildtype": "gapps",
+                        "forum": "",
+                        "telegram": "https://t.me/rakmoparte"
+                }
+        ]
+}

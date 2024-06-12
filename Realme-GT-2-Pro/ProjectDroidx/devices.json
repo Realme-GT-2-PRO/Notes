@@ -1,0 +1,23 @@
+[
+
+    {
+        "vendor": "Realme",
+        "model": "Realme GT 2 Pro",
+        "codename": "ferrarri",
+        "maintainer": "RAM-UNLOK",
+        "telegram": "https://t.me/rakmoparte",
+        "github": "https://github.com/RAM-UNLOK",
+        "donation": "",
+        "active": true
+    },
+    {
+        "vendor": "PlaceHolder",
+        "model": "PlaceHolder",
+        "codename": "placeholder",
+        "maintainer": "PlaceHolder",
+        "telegram": "https://t.me/PlaceHolder",
+        "github": "https://github.com/",
+        "donation": "",
+        "active": true
+    }
+]

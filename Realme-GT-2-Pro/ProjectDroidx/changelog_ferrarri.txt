@@ -5,14 +5,14 @@ Maintainer : Omkar Parte ( @rakmoparte )
 
 =======================================
 Changelog For Project Droidx-UI v2.1 STABLE
-              12-06-2024
+              18-06-2024
 =======================================
 
 ### Changelog Ferrarri RMX3301 ( Realme GT 2 Pro )
 
-- Includes kernel 5.10.205 + KernelSU
+- Includes kernel 5.10.205 ( With KSU & Apatch Supported )
 - No Oplus Camera
-- Play Integrity Passes ( Builds Are Now Signed Locally )
+- Play Integrity Passes ( Builds Are Now Signed )
 - Updated Blobs to RMX3301_14.0.0.610(EX01)
 - New Vibration levels
 - New Auto Brightness Audjustments
@@ -27,11 +27,11 @@ Changelog For Project Droidx-UI v2.1 STABLE
 - Imported many configs from stock build.prop
 - Droped Lineage Livedisplay
 - Moved From Legacy to Virtual Camera Implementation
-- Pickup Sensor Now Working
-  (Using Different Als thanks to Vimal )
 - Future Updates will Now support OTA
 
-###  Flashing Step - Via sideload as usual
+###  Flashing Step
+- Flash Droidx Recovery From Download Link
+- Via sideload as usual
 
 ## Credits
 
