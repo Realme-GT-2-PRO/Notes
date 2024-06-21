@@ -38,7 +38,7 @@
         }
     ],
     "decentralize": {
-        "offset": 27151,
+        "offset": 24622,
         "round": 28800,
         "strategyVersion": "9"
     },
