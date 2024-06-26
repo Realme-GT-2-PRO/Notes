@@ -5,49 +5,50 @@
     "componentAssembleType": true,
     "components": [
         {
-            "componentId": "my_manifest_RMX3301_11.F.32_3320_202404072006.1B.9c372b8c",
+            "componentId": "my_manifest_RMX3301_11.F.33_3330_202406062100.1B.8b6b5e75",
             "componentName": "my_manifest",
             "componentPackets": {
-                "id": "foreign_my_manifest_RMX3301_11.F.32_3320_202404072006.1B.9c372b8c_1_33c9963ac645e32ce581eafb12a8b88c",
-                "manualUrl": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d8cf2a97d01067a689cf216d92464181/component-ota/24/04/10/07a3ac14fc6d49d1bbe90d93abb8b339.zip",
-                "md5": "33c9963ac645e32ce581eafb12a8b88c",
-                "size": "6693073191",
+                "id": "foreign_my_manifest_RMX3301_11.F.33_3330_202406062100.1B.8b6b5e75_1_ddca3f388573e396599faed44cf48879",
+                "manualUrl": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d3f15c30cd82bd18a8ac458eccc45e66/component-ota/24/06/07/d9ea94ddd3e840feb61babebe178c68f.zip",
+                "md5": "ddca3f388573e396599faed44cf48879",
+                "size": "6775213918",
                 "type": "1",
-                "url": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d8cf2a97d01067a689cf216d92464181/component-ota/24/04/10/07a3ac14fc6d49d1bbe90d93abb8b339.zip",
+                "url": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d3f15c30cd82bd18a8ac458eccc45e66/component-ota/24/06/07/d9ea94ddd3e840feb61babebe178c68f.zip",
                 "vabInfo": {
                     "data": {
-                        "extra_params": "metadata_hash:01328fa371e7a0c849b80a3e6f6d46a711e30585c841cb3f7c84369ad1889b14",
+                        "extra_params": "metadata_hash:0caa88981dddf2f5e496b367fdd9ff8f49c3a85bd55a56d5b979b8d8be5e20cb",
                         "header": [
-                            "FILE_HASH=Igsn96XpeKT7mvBUci2tWZhtkANMzCzXaWeq+d7N1/8=",
-                            "FILE_SIZE=6693067441",
-                            "METADATA_HASH=bFWprLiOWgtNaxhnwD8uWpzhdrLV8WH25oJD/5zMcFA=",
-                            "METADATA_SIZE=249894",
+                            "FILE_HASH=MYL9Y78LBAigUpZ5bI7uDRR3KXIt9J6uHnaikdzMw9g=",
+                            "FILE_SIZE=6775208069",
+                            "METADATA_HASH=9G2p9duoXWjXjmHDKzwRTVHyZ5lu9yN/oleploJPZCU=",
+                            "METADATA_SIZE=252626",
                             "oplus_update_engine_verify_disable=0",
-                            "ota_target_version=RMX3301_11.F.32_3320_202404072006",
+                            "ota_target_version=RMX3301_11.F.33_3330_202406062100",
                             "oplus_rom_version=V14.0.0",
-                            "security_patch=2024-04-05",
-                            "security_patch_vendor=2024-04-05",
-                            "oplus_separate_soft=216AC"
+                            "security_patch=2024-06-05",
+                            "security_patch_vendor=2024-06-05",
+                            "oplus_separate_soft=216AC",
+                            "mainline_version=341444004"
                         ],
-                        "otaStreamingProperty": "payload_metadata.bin:2203:250161,payload.bin:2203:6693067441,payload_properties.txt:6693069702:357,metadata:69:1035,metadata.pb:1172:964",
-                        "vab_package_hash": "33c9963ac645e32ce581eafb12a8b88c"
+                        "otaStreamingProperty": "payload_metadata.bin:2275:252893,payload.bin:2275:6775208069,payload_properties.txt:6775210402:384,metadata:69:1077,metadata.pb:1214:994",
+                        "vab_package_hash": "ddca3f388573e396599faed44cf48879"
                     }
                 }
             },
-            "componentVersion": "RMX3301_11.F.32_3320_202404072006.1B.9c372b8c"
+            "componentVersion": "RMX3301_11.F.33_3330_202406062100.1B.8b6b5e75"
         }
     ],
     "decentralize": {
-        "offset": 24622,
+        "offset": 28495,
         "round": 28800,
         "strategyVersion": "9"
     },
     "description": {
         "share": ".",
-        "url": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d8cf2a97d01067a689cf216d92464181/component-ota/24/05/06/bfd4e746b30646329e5e8fc82f22e0d4.html?logoType=1"
+        "url": "https://gauss-componentotacostmanual-in.allawnofs.com/remove-d3f15c30cd82bd18a8ac458eccc45e66/component-ota/24/06/28/26eb507214a34bb9945156d6f8214829.html?logoType=1"
     },
     "googlePatchInfo": "0",
-    "id": "66384f66124eec011c28321a",
+    "id": "667e5f8b66c961011f0d861c",
     "isNvDescription": true,
     "isRecruit": false,
     "isSecret": false,
@@ -55,9 +56,10 @@
     "noticeType": 0,
     "nvId16": "NV1B",
     "osVersion": "ColorOS 14.0",
-    "otaVersion": "RMX3301_11.F.32_3320_202404072006",
+    "otaVersion": "RMX3301_11.F.33_3330_202406062100",
     "paramFlag": 1,
     "parent": "ota",
+    "publishedTime": 1719571146041,
     "realAndroidVersion": "Android 14",
     "realOsVersion": "ColorOS 14.0.0",
     "reminderType": 1,
@@ -76,7 +78,7 @@
                 1,
                 1
             ],
-            "version": "1713855244000"
+            "version": "1718851691000"
         },
         "upgrade": {
             "notice": [
@@ -93,15 +95,15 @@
                 3,
                 3
             ],
-            "version": "1713855244000"
+            "version": "1718851691000"
         }
     },
-    "rid": "f9918526-ec1f-4400-8014-2e7e44b38f09",
-    "securityPatch": "2024-04-05",
-    "securityPatchVendor": "2024-04-05",
+    "rid": "27589c46-1a97-4414-b894-a0868d22e986",
+    "securityPatch": "2024-06-05",
+    "securityPatchVendor": "2024-06-05",
     "silenceUpdate": 0,
     "status": "published",
-    "versionCode": 3320,
-    "versionName": "RMX3301_14.0.0.601(EX01)",
+    "versionCode": 3330,
+    "versionName": "RMX3301_14.0.0.801(EX01)",
     "versionTypeH5": "Official version"
 }

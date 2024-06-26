@@ -94,6 +94,7 @@ my_bigball/app/engineermodeforflipkart/oat/arm64/engineermodeforflipkart.vdex
 my_bigball/app/Facebook-appmanager/Facebook-appmanager.apk
 my_bigball/app/FinShellPay/FinShellPay.apk
 my_bigball/app/FinShellPay/lib/arm/libdata-reporter.so
+my_bigball/app/FinShellPay/lib/arm/libdns_server_rk.so
 my_bigball/app/FinShellPay/lib/arm/libocstool.so
 my_bigball/app/FinShellPay/oat/arm64/FinShellPay.vdex
 my_bigball/app/FinShellPay/oat/arm/FinShellPay.vdex
@@ -142,6 +143,7 @@ my_bigball/del-app/RMCommEXP/lib/arm/libsoundtouch.so
 my_bigball/del-app/RMCommEXP/lib/arm/libweibosdkcore.so
 my_bigball/del-app/RMCommEXP/RMCommEXP.apk
 my_bigball/del-app/RMStoreExp/RMStoreExp.apk
+my_bigball/etc/asl/shopee-safetylabel.xml
 my_bigball/etc/battery/sys_deviceidle_whitelist.xml
 my_bigball/etc/default-permissions/facebook_default_permissions.xml
 my_bigball/etc/engineermode/config.json
@@ -243,6 +245,7 @@ my_bigball/etc/sysconfig/asi_infrastructure.xml
 my_bigball/etc/sysconfig/com_google_android_dialer_call_recording_audio_support.xml
 my_bigball/etc/sysconfig/com.google.android.dialer.support.xml
 my_bigball/etc/sysconfig/facebook_sysconfig.xml
+my_bigball/etc/sysconfig/preinstalled-package-app-metadata-files-third-party.xml
 my_bigball/framework/com.google.android.dialer.support.jar
 my_bigball/Omoji/assets/acne/D_001.bundle
 my_bigball/Omoji/assets/acne/D_002.bundle
@@ -620,11 +623,7 @@ my_heytap/app/StdSP/StdSP.apk
 my_heytap/app/SwitchAccess/SwitchAccess.apk
 my_heytap/app/talkback/talkback.apk
 my_heytap/app/TrichromeLibrary/TrichromeLibrary.apk
-my_heytap/app/WebViewGoogle/oat/arm64/WebViewGoogle.vdex
-my_heytap/app/WebViewGoogle/oat/arm/WebViewGoogle.vdex
 my_heytap/app/WebViewGoogle/WebViewGoogle.apk
-my_heytap/app/WifiBackupRestore/oat/arm64/WifiBackupRestore.vdex
-my_heytap/app/WifiBackupRestore/oat/arm/WifiBackupRestore.vdex
 my_heytap/app/WifiBackupRestore/WifiBackupRestore.apk
 my_heytap/app/YouTube/YouTube.apk
 my_heytap/build.prop
@@ -2052,6 +2051,7 @@ my_region/global/etc/extension/1160_Povo/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1161_Rakuten/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1161_Rakuten/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1162_DocomoOCN/carrierReady/com.oplus.app-features.xml
+my_region/global/etc/extension/1162_DocomoOCN/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1165S1Y!Mobile_Softbank/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1165S1Y!Mobile_Softbank/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1165_Softbank/carrierReady/com.oplus.app-features.xml
@@ -2316,7 +2316,11 @@ my_region/global/etc/extension/1500_Vivo/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1504_Claro-BR/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1504_Claro-BR/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1514_Movistar-AR/carrierReady/com.oplus.app-features.xml
+my_region/global/etc/extension/1522_Antel/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1522_Antel/carrierReady/oplus_carrier_config.xml
+my_region/global/etc/extension/1523_Movistar-UY/carrierReady/com.oplus.app-features.xml
+my_region/global/etc/extension/1523_Movistar-UY/carrierReady/oplus_carrier_config.xml
+my_region/global/etc/extension/1524_Tigo-PY/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1526S1Lebara_Vodafone-AU/carrierReady/oplus_carrier_config.xml
 my_region/global/etc/extension/1526_Vodafone-AU/carrierReady/com.oplus.app-features.xml
 my_region/global/etc/extension/1526_Vodafone-AU/carrierReady/oplus_carrier_config.xml
@@ -2582,6 +2586,7 @@ my_region/global/R/etc/extension/1371_O2-GB/carrierReady/oplus_carrier_config.xm
 my_region/global/R/etc/extension/1382_Eir/carrierReady/oplus_carrier_config.xml
 my_region/global/R/etc/extension/1383_Three/carrierReady/oplus_carrier_config.xml
 my_region/global/R/etc/extension/1389_TurkTelekom/carrierReady/oplus_carrier_config.xml
+my_region/global/R/etc/extension/1390_Beeline-RU/carrierReady/com.oplus.app-features.xml
 my_region/global/R/etc/extension/1391S1Yota_Megafon/carrierReady/com.oplus.app-features.xml
 my_region/global/R/etc/extension/1391S1Yota_Megafon/carrierReady/oplus_carrier_config.xml
 my_region/global/R/etc/extension/1392_MTS/carrierReady/oplus_carrier_config.xml
@@ -2796,6 +2801,7 @@ my_stock/etc/permissions/default_grant_permissions_list.xml
 my_stock/etc/permissions/default_grant_permissions_ltw.xml
 my_stock/etc/permissions/feature_resolver.xml
 my_stock/etc/permissions/feature_uxdesign.xml
+my_stock/etc/permissions/oplus_default_grant_permissions_list.xml
 my_stock/etc/permissions/privapp_permission_ltw.xml
 my_stock/etc/permissions/privapp-permissions-oplus.xml
 my_stock/etc/permissions/realme_stock_app_common_oplus_features.xml
@@ -2805,6 +2811,7 @@ my_stock/etc/permissions/realme_stock_app_export_system_features.xml
 my_stock/etc/settings/regulatory_image_brazil_anatel_rmx3081.png
 my_stock/etc/settings/regulatory_image_brazil_anatel_rmx3191.png
 my_stock/etc/settings/regulatory_image_brazil_anatel_rmx3363.png
+my_stock/etc/sys_startup_manager_config_exp.xml
 my_stock/media/theme/allApps.xml
 my_stock/media/theme/drawableMapping.xml
 my_stock/media/theme/.nomedia
@@ -3748,10 +3755,17 @@ my_stock/priv-app/PhoneManager/lib/arm64/libaescn.so
 my_stock/priv-app/PhoneManager/lib/arm64/libaevdf.so
 my_stock/priv-app/PhoneManager/lib/arm64/libaiunit_sdk_core.so
 my_stock/priv-app/PhoneManager/lib/arm64/libantivirus.so
+my_stock/priv-app/PhoneManager/lib/arm64/libapminsighta.so
+my_stock/priv-app/PhoneManager/lib/arm64/libapminsightb.so
+my_stock/priv-app/PhoneManager/lib/arm64/libbuffer_pg.so
 my_stock/priv-app/PhoneManager/lib/arm64/libcrypto.so
+my_stock/priv-app/PhoneManager/lib/arm64/libEncryptorP.so
+my_stock/priv-app/PhoneManager/lib/arm64/libfile_lock_pg.so
 my_stock/priv-app/PhoneManager/lib/arm64/libmavapi.so
 my_stock/priv-app/PhoneManager/lib/arm64/libmaven.so
+my_stock/priv-app/PhoneManager/lib/arm64/libnms.so
 my_stock/priv-app/PhoneManager/lib/arm64/libopluslog.so
+my_stock/priv-app/PhoneManager/lib/arm64/libtobEmbedPagEncrypt.so
 my_stock/priv-app/PhoneManager/PhoneManager.apk
 my_stock/priv-app/Screenshot/oat/arm64/Screenshot.vdex
 my_stock/priv-app/Screenshot/Screenshot.apk
@@ -3782,7 +3796,7 @@ odm/bin/hw/vendor.oplus.hardware.biometrics.face@1.0-service
 odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
 odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service
 odm/bin/hw/vendor.oplus.hardware.cammidasservice-V1-service
-odm/bin/hw/vendor.oplus.hardware.charger-V2-service
+odm/bin/hw/vendor.oplus.hardware.charger-V3-service
 odm/bin/hw/vendor.oplus.hardware.cryptoeng@1.0-service
 odm/bin/hw/vendor.oplus.hardware.displaypanelfeature@1.0-service
 odm/bin/hw/vendor-oplus-hardware-engineer-V1-service
@@ -4619,7 +4633,7 @@ odm/etc/init/vendor.oplus.hardware.biometrics.face@1.0-service.rc
 odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
 odm/etc/init/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service.rc
 odm/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc
-odm/etc/init/vendor.oplus.hardware.charger-V2-service.rc
+odm/etc/init/vendor.oplus.hardware.charger-V3-service.rc
 odm/etc/init/vendor.oplus.hardware.cryptoeng@1.0-service_FDE.rc
 odm/etc/init/vendor.oplus.hardware.displaypanelfeature@1.0-service.rc
 odm/etc/init/vendor-oplus-hardware-engineer-V1-service.rc
@@ -5619,7 +5633,7 @@ odm/lib64/vendor.oplus.hardware.bluetooth_audio_extend@2.1.so
 odm/lib64/vendor.oplus.hardware.cameraextension-V1-service-impl.so
 odm/lib64/vendor.oplus.hardware.cammidasservice-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.charger@1.0.so
-odm/lib64/vendor.oplus.hardware.charger-V2-ndk_platform.so
+odm/lib64/vendor.oplus.hardware.charger-V3-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.commondcs-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.communicationcenter-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.cryptoeng@1.0.so
@@ -5965,7 +5979,7 @@ odm/lib/vendor.oplus.hardware.bluetooth_audio_extend@2.1.so
 odm/lib/vendor.oplus.hardware.cameraextension-V1-service-impl.so
 odm/lib/vendor.oplus.hardware.cammidasservice-V1-ndk_platform.so
 odm/lib/vendor.oplus.hardware.charger@1.0.so
-odm/lib/vendor.oplus.hardware.charger-V2-ndk_platform.so
+odm/lib/vendor.oplus.hardware.charger-V3-ndk_platform.so
 odm/lib/vendor.oplus.hardware.commondcs-V1-ndk_platform.so
 odm/lib/vendor.oplus.hardware.communicationcenter-V1-ndk_platform.so
 odm/lib/vendor.oplus.hardware.cryptoeng@1.0.so
@@ -7447,8 +7461,8 @@ system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V1.0-java.odex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V1.0-java.vdex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V1-java.odex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V1-java.vdex
-system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V2-java.odex
-system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V2-java.vdex
+system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V3-java.odex
+system_ext/framework/oat/arm64/vendor.oplus.hardware.charger-V3-java.vdex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.cryptoeng-V1.0-java.odex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.cryptoeng-V1.0-java.vdex
 system_ext/framework/oat/arm64/vendor.oplus.hardware.cryptoeng-V1-java.odex
@@ -7634,8 +7648,8 @@ system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V1.0-java.odex
 system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V1.0-java.vdex
 system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V1-java.odex
 system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V1-java.vdex
-system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V2-java.odex
-system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V2-java.vdex
+system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V3-java.odex
+system_ext/framework/oat/arm/vendor.oplus.hardware.charger-V3-java.vdex
 system_ext/framework/oat/arm/vendor.oplus.hardware.cryptoeng-V1.0-java.odex
 system_ext/framework/oat/arm/vendor.oplus.hardware.cryptoeng-V1.0-java.vdex
 system_ext/framework/oat/arm/vendor.oplus.hardware.cryptoeng-V1-java.odex
@@ -7772,7 +7786,7 @@ system_ext/framework/vendor.oplus.hardware.binderstats-V1.0-java.jar
 system_ext/framework/vendor.oplus.hardware.biometrics.fingerprintpay-V1-java.jar
 system_ext/framework/vendor.oplus.hardware.charger-V1.0-java.jar
 system_ext/framework/vendor.oplus.hardware.charger-V1-java.jar
-system_ext/framework/vendor.oplus.hardware.charger-V2-java.jar
+system_ext/framework/vendor.oplus.hardware.charger-V3-java.jar
 system_ext/framework/vendor.oplus.hardware.cryptoeng-V1.0-java.jar
 system_ext/framework/vendor.oplus.hardware.cryptoeng-V1-java.jar
 system_ext/framework/vendor.oplus.hardware.engineer-V1.0-java.jar
@@ -8190,7 +8204,7 @@ system_ext/lib64/vendor.oplus.hardware.camera.slogan@1.0.so
 system_ext/lib64/vendor.oplus.hardware.camera.slogan-V1-ndk_platform.so
 system_ext/lib64/vendor.oplus.hardware.charger@1.0.so
 system_ext/lib64/vendor.oplus.hardware.charger-V1-ndk.so
-system_ext/lib64/vendor.oplus.hardware.charger-V2-ndk.so
+system_ext/lib64/vendor.oplus.hardware.charger-V3-ndk.so
 system_ext/lib64/vendor.oplus.hardware.cryptoeng@1.0.so
 system_ext/lib64/vendor.oplus.hardware.cryptoeng-V1-ndk.so
 system_ext/lib64/vendor.oplus.hardware.displaypanelfeature@1.0.so
@@ -8650,7 +8664,7 @@ system_ext/lib/vendor.oplus.hardware.bluetooth_audio_extend@2.1.so
 system_ext/lib/vendor.oplus.hardware.cameraMDM@1.0.so
 system_ext/lib/vendor.oplus.hardware.camera.slogan@1.0.so
 system_ext/lib/vendor.oplus.hardware.charger-V1-ndk.so
-system_ext/lib/vendor.oplus.hardware.charger-V2-ndk.so
+system_ext/lib/vendor.oplus.hardware.charger-V3-ndk.so
 system_ext/lib/vendor.oplus.hardware.cryptoeng@1.0.so
 system_ext/lib/vendor.oplus.hardware.cryptoeng-V1-ndk.so
 system_ext/lib/vendor.oplus.hardware.displaypanelfeature@1.0.so
@@ -10532,8 +10546,6 @@ system/system/framework/oat/arm64/locksettings.odex
 system/system/framework/oat/arm64/locksettings.vdex
 system/system/framework/oat/arm64/monkey.odex
 system/system/framework/oat/arm64/monkey.vdex
-system/system/framework/oat/arm64/oplus-oguard.odex
-system/system/framework/oat/arm64/oplus-oguard.vdex
 system/system/framework/oat/arm64/oplus-service-jobscheduler.odex
 system/system/framework/oat/arm64/oplus-service-jobscheduler.vdex
 system/system/framework/oat/arm64/oplus-services.odex
@@ -10629,8 +10641,6 @@ system/system/framework/oat/arm/locksettings.odex
 system/system/framework/oat/arm/locksettings.vdex
 system/system/framework/oat/arm/monkey.odex
 system/system/framework/oat/arm/monkey.vdex
-system/system/framework/oat/arm/oplus-oguard.odex
-system/system/framework/oat/arm/oplus-oguard.vdex
 system/system/framework/oat/arm/org.apache.http.legacy.odex
 system/system/framework/oat/arm/org.apache.http.legacy.vdex
 system/system/framework/oat/arm/requestsync.odex
@@ -10668,7 +10678,6 @@ system/system/framework/oat/arm/vendor.qti.hardware.data.connectionaidl-V1-java.
 system/system/framework/oat/arm/vr.odex
 system/system/framework/oat/arm/vr.vdex
 system/system/framework/oplus-framework.jar
-system/system/framework/oplus-oguard.jar
 system/system/framework/oplus-service-jobscheduler.jar
 system/system/framework/oplus-services.jar
 system/system/framework/oplus-support-wrapper.jar
@@ -14979,7 +14988,7 @@ vendor/lib64/vendor.oplus.hardware.ims-V1-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.olc2-V1-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.osense.client-V1-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.performance-V1-ndk_platform.so
-vendor/lib64/vendor.oplus.hardware.radio-V1-ndk_platform.so
+vendor/lib64/vendor.oplus.hardware.radio-V2-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.sendextcamcmd-V2-ndk_platform.so
 vendor/lib64/vendor.oplus.hardware.wifi.hostapd@1.0.so
 vendor/lib64/vendor.oplus.hardware.wifi.supplicant-V4-ndk_platform.so
@@ -16189,7 +16198,7 @@ vendor/lib/vendor.oplus.hardware.ims-V1-ndk_platform.so
 vendor/lib/vendor.oplus.hardware.olc2-V1-ndk_platform.so
 vendor/lib/vendor.oplus.hardware.osense.client-V1-ndk_platform.so
 vendor/lib/vendor.oplus.hardware.performance-V1-ndk_platform.so
-vendor/lib/vendor.oplus.hardware.radio-V1-ndk_platform.so
+vendor/lib/vendor.oplus.hardware.radio-V2-ndk_platform.so
 vendor/lib/vendor.oplus.hardware.sendextcamcmd-V2-ndk_platform.so
 vendor/lib/vendor.pixelworks.hardware.display@1.0.so
 vendor/lib/vendor.pixelworks.hardware.display@1.1.so

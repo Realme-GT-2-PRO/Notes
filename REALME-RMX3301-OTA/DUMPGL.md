@@ -39,16 +39,16 @@
         }
     ],
     "decentralize": {
-        "offset": 7694,
+        "offset": 23118,
         "round": 28800,
         "strategyVersion": "9"
     },
     "description": {
         "share": ".",
-        "url": "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d3f15c30cd82bd18a8ac458eccc45e66/component-ota/24/06/20/4a7ec881a82f43289eb146de2e36010a.html?logoType=1"
+        "url": "https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d3f15c30cd82bd18a8ac458eccc45e66/component-ota/24/06/28/26eb507214a34bb9945156d6f8214829.html?logoType=1"
     },
     "googlePatchInfo": "0",
-    "id": "6662aa17124eec011c28adc3",
+    "id": "667e5f8b66c961011f0d861c",
     "isNvDescription": true,
     "isRecruit": false,
     "isSecret": false,
@@ -59,6 +59,7 @@
     "otaVersion": "RMX3301_11.F.33_3330_202406062100",
     "paramFlag": 1,
     "parent": "ota",
+    "publishedTime": 1719571146041,
     "realAndroidVersion": "Android 14",
     "realOsVersion": "ColorOS 14.0.0",
     "reminderType": 1,
@@ -77,7 +78,7 @@
                 1,
                 1
             ],
-            "version": "1718851691426"
+            "version": "1718851691000"
         },
         "upgrade": {
             "notice": [
@@ -94,7 +95,7 @@
                 3,
                 3
             ],
-            "version": "1718851691426"
+            "version": "1718851691000"
         }
     },
     "rid": "27589c46-1a97-4414-b894-a0868d22e986",
