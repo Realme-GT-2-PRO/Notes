@@ -23,6 +23,12 @@ realme-ota -r 0 RMX3301 RMX3301_11.F.00_0000_000000000000 5 -d DUMPGL.md
 ```
 realme-ota -r 2 RMX3301 RMX3301_11.F.00_0000_000000000000 5 -d DUMPIN.md
 ```
+```
+realme-ota -r 0 NE2215 NE2215_14.F.00_0000_000000000000 5 -d OPDUMPGL.md
+```
+```
+realme-ota -r 2 NE2215 NE2215_14.F.00_0000_000000000000 5 -d OPDUMPIN.md
+```
 
 
 ## Click To Download
