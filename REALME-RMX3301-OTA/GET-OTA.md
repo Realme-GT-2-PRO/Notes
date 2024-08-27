@@ -30,6 +30,8 @@ realme-ota -r 0 NE2215 NE2215_14.F.00_0000_000000000000 5 -d OPDUMPGL.md
 realme-ota -r 2 NE2215 NE2215_14.F.00_0000_000000000000 5 -d OPDUMPIN.md
 ```
 
+https://xdaforums.com/t/global-eu-collection-of-firmware-files.4478153/
+
 
 ## Click To Download
 
